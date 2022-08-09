@@ -1,5 +1,7 @@
 # multiline-javascript-converter-for-vscode README
 
+INITIALIZED!
+
 This is the README for your extension "multiline-javascript-converter-for-vscode". After writing up a brief description, we recommend including the following sections.
 
 ## Features
